@@ -18,7 +18,7 @@ URL = "https://github.com/qubvel/segmentation_models.pytorch"
 EMAIL = "qubvel@gmail.com"
 AUTHOR = "Pavel Yakubovskiy"
 REQUIRES_PYTHON = ">=3.6.0"
-VERSION = 2
+VERSION = None
 
 # The rest you shouldn't have to touch too much :)
 # ------------------------------------------------
